@@ -38,3 +38,20 @@ This project applies advanced NLP and data analytics to analyze the landscape of
 ## Usage
 
 Clone the repository:
+git clone https://github.com/rebeccah12821/ai-patent-litigation-nlp-massachusetts.git
+
+text
+
+Install dependencies:
+pip install -r requirements.txt
+
+text
+
+Run the main analysis script:
+python analyze_litigation.py
+
+text
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for details.
